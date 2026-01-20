@@ -1,0 +1,38 @@
+class Solution {
+    public String minWindow(String s1, String s2) {
+        char[] c1 = s1.toCharArray();
+        char[] c2 = s2.toCharArray();
+        int i=0;
+        int j=0;
+        int k=0;
+        int min = Integer.MAX_VALUE;
+        String res = "";
+        while(j<c1.length&&k<c2.length){
+            if(c1[j]!=c2[k]){
+                j++;
+            }else{
+                j++;k++;
+            }
+            
+            if(k==c2.length){
+                i=j-1;
+                k = c2.length-1;
+                while(k>=0&&i>=0){
+                    if(c1[i]==c2[k]){
+                        i--;k--;
+                    }
+                    else{
+                        i--;
+                    }
+                }
+                i++;
+                if(min>j-i){
+                    min = j-i;
+                    res = s1.substring(i,j);
+                }
+                k=0;j=i+1;
+            }
+        }
+        return res;
+    }
+}
