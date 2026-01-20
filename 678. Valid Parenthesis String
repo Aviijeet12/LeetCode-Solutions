@@ -1,0 +1,18 @@
+class Solution {
+    public boolean checkValidString(String s) {
+        char[] c = s.toCharArray();
+        int mino=0,maxo=0; //mino-> minimum possible open brackets , maxo -> maximum possible open brackets.
+        for(int i=0;i<c.length;i++){
+            if(c[i]=='('){
+                mino++; maxo++; // open bracket encountered mino,maxo incr.
+            }else if(c[i]==')'){
+                mino--; maxo--; // closing bracket encountered mino,maxo decr.
+            }else{
+                mino--; maxo++; // '*' encountered mino decr because { * = ')' } && maxo incr because { * = '(' }
+            }
+            if(maxo<0) return false; // whenever the max possible max opening bracket goes below zero immediately reutrn false.
+            mino = Math.max(mino,0); 
+        }
+        return mino==0;
+    }
+}
