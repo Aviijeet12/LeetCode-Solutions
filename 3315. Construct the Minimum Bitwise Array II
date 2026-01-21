@@ -1,0 +1,21 @@
+class Solution {
+    public int solve(int k) {
+        if(k%2==0){
+            return -1;
+        }
+        int x = k;
+        int n = 1;
+        while((x&1)==1) {
+            n<<=1;
+            x>>=1;
+        }
+        return k-(n>>1);
+    }
+    public int[] minBitwiseArray(List<Integer> nums) {
+        int[] res = new int[nums.size()];
+        for (int i = 0; i < nums.size(); i++) {
+            res[i] = solve(nums.get(i));
+        }
+        return res;
+    }
+}
