@@ -1,0 +1,41 @@
+class Solution {
+    List<String> res = new ArrayList<>();
+    public void solve(String s, int tg, int idx,  StringBuilder curr, long val, long last){
+        if(idx==s.length()){
+            if(tg==val){
+                res.add(curr.toString());
+            }
+            return;
+        }
+        int len = curr.length();
+        long num = 0;
+        for(int i=idx;i<s.length();i++){
+            if(i>idx&&s.charAt(idx)=='0'){
+                break;
+            }
+            num = 10*num + (s.charAt(i)-'0');
+            if(idx==0){
+                curr.append(num);
+                solve(s,tg,i+1,curr,num,num);
+                curr.setLength(len);
+            }else{
+                curr.append("+").append(num);
+                solve(s,tg,i+1,curr,val+num,num);
+                curr.setLength(len);
+
+                curr.append("-").append(num);
+                solve(s,tg,i+1,curr,val-num,-num);
+                curr.setLength(len);
+
+                curr.append("*").append(num);
+                solve(s,tg,i+1,curr,val-last+last*num,last*num);
+                curr.setLength(len);
+            }
+        }
+        
+    }
+    public List<String> addOperators(String s, int tg) {
+        solve(s,tg,0,new StringBuilder(),0,0);
+        return res;
+    }
+}
