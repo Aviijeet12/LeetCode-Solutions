@@ -1,0 +1,19 @@
+class Solution {
+    public String replaceWords(List<String> a, String s) {
+        String[] sr = s.trim().split("\\s+");
+        StringBuilder sb = new StringBuilder();
+
+        for(String w : sr){
+            String replace = w;
+            for(String d : a){
+                if(w.startsWith(d)){
+                    if(d.length()<replace.length()){
+                        replace = d;
+                    }
+                }
+            }
+        sb.append(replace).append(" ");
+        } 
+        return sb.toString().trim();
+    }
+}
