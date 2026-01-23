@@ -1,0 +1,20 @@
+class Solution {
+    public int solve(int[][] dp,String s, String t){
+        for(int i=1;i<=t.length();i++){
+            for(int j=1;j<=s.length();j++){
+                if(t.charAt(i-1)==s.charAt(j-1)){
+                    dp[i][j] = 1+dp[i-1][j-1];
+                }else{
+                    dp[i][j] = Math.max(dp[i-1][j],dp[i][j-1]);
+                }
+            }
+        }
+        return dp[t.length()][s.length()];
+    }
+    public boolean isSubsequence(String s, String t) {
+        int n = s.length();
+        int[][] dp = new int[t.length()+1][s.length()+1];
+        int k = solve(dp,s,t);
+        return k==n;
+    }
+}
