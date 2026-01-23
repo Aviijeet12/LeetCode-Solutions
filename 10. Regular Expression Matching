@@ -1,0 +1,17 @@
+class Solution {
+    public boolean isMatch(String s, String p) {
+        if(p.length()==0){
+            return s.length()==0;
+        }
+        boolean check = false;
+        if(s.length()>0 && (p.charAt(0)==s.charAt(0)||p.charAt(0)=='.')){
+            check = true;
+        }
+        if(p.length()>=2 && p.charAt(1)=='*'){
+            boolean not = isMatch(s,p.substring(2));
+            boolean take = check && isMatch(s.substring(1),p);
+            return take || not;
+        }
+        return check && isMatch(s.substring(1),p.substring(1));
+    }
+}
