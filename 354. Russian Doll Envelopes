@@ -1,0 +1,22 @@
+class Solution {
+    public int maxEnvelopes(int[][] env) {
+        Arrays.sort(env,(a,b)->{
+            if(a[0]!=b[0]){
+                return Integer.compare(a[0],b[0]);
+            }
+            return Integer.compare(b[1],a[1]);
+        });
+        int cnt = 0;
+        int[] dp = new int[env.length];
+        Arrays.fill(dp,1);
+        for(int i=0;i<env.length;i++){
+            for(int j=0;j<i;j++){
+                if(env[i][0]>env[j][0]&&env[i][1]>env[j][1]){
+                    dp[i] = Math.max(dp[i],dp[j]+1);
+                }
+            }
+            cnt = Math.max(cnt,dp[i]);
+        }
+        return cnt;
+    }
+}
