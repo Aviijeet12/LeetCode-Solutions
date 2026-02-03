@@ -1,0 +1,53 @@
+class Pair{
+    int num;
+    char c;
+    Pair(int num, char c){
+        this.num = num;
+        this.c = c;
+    }
+}
+class Solution {
+    public String longestDiverseString(int a, int b, int c) {
+        PriorityQueue<Pair> pq = new PriorityQueue<>((k,l)->l.num-k.num);
+        if(a>0){
+            pq.add(new Pair(a,'a'));
+        }
+        if(b>0){
+            pq.add(new Pair(b,'b'));
+        }
+        if(c>0){
+            pq.add(new Pair(c,'c'));
+        }
+
+        String res = "";
+
+        while(!pq.isEmpty()){
+            Pair p = pq.poll();
+            int curcnt = p.num;
+            char curchar = p.c;
+
+            if(res.length()>=2&&res.charAt(res.length()-1)==curchar&&res.charAt(res.length()-2)==curchar){
+                if(pq.isEmpty()){
+                    break;
+                }
+                Pair pn = pq.poll();
+                int nextcnt = pn.num;
+                char nextchar = pn.c;
+
+                res+=nextchar;
+                nextcnt--;
+                if(nextcnt>0){
+                    pq.add(new Pair(nextcnt,nextchar));
+                }
+                pq.add(new Pair(curcnt,curchar));
+            }else{
+                res+=curchar;
+                curcnt--;
+                if(curcnt>0){
+                    pq.add(new Pair(curcnt,curchar));
+                }
+            }
+        }
+        return res;
+    }
+}
