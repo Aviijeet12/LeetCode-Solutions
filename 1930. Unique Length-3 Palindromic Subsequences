@@ -1,0 +1,29 @@
+class Solution {
+    public int countPalindromicSubsequence(String s) {
+        int n = s.length();
+        HashSet<Character> set = new HashSet<>();
+        for(int i=0;i<n;i++){
+            set.add(s.charAt(i));
+        }   
+        int cnt = 0;
+        for(char p : set){
+            int firidx = -1;
+            int lastdx = -1;
+
+            for(int i=0;i<n;i++){
+                if(s.charAt(i)==p){
+                    if(firidx==-1){
+                        firidx = i;
+                    }
+                    lastdx = i;
+                }
+            }
+            HashSet<Character> tempset = new HashSet<>();
+            for(int i=firidx+1;i<lastdx;i++){
+                tempset.add(s.charAt(i));
+            }
+            cnt+=tempset.size();
+        }
+        return cnt;
+    }
+}
