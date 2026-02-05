@@ -1,0 +1,30 @@
+class Solution {
+    HashMap<Integer,Integer> map;
+    Boolean[][] dp;
+    public boolean solve(int cs, int pj, int[] st){
+        if(cs==st.length-1){
+            return true;
+        }
+        if(dp[cs][pj]!=null){
+            return dp[cs][pj];
+        }
+        boolean res = false;
+        for(int nj=pj-1;nj<=pj+1;nj++){
+            if(nj>0){
+                int ns = st[cs]+nj;
+                if(map.containsKey(ns)){
+                    res = res || solve(map.get(ns),nj,st);
+                }
+            }
+        }
+        return dp[cs][pj] = res;
+    }
+    public boolean canCross(int[] st) {
+        map = new HashMap<>();
+        dp = new Boolean[st.length][st.length];
+        for(int i=0;i<st.length;i++){
+            map.put(st[i],i);
+        }
+        return solve(map.get(0),0,st);
+    }
+}
