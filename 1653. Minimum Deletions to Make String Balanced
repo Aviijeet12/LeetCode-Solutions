@@ -1,0 +1,25 @@
+class Solution {
+    public int minimumDeletions(String s) {
+        int n = s.length();
+        int i = 0;
+        int j = 1;
+        int cnt = 0;
+        while(j<n){
+            while(s.charAt(i)!='b'&&i<j){
+                i++;
+            }
+            if(s.charAt(j)!='a'){
+                j++;
+                continue;
+            }
+            if(s.charAt(i)=='b'&&s.charAt(j)=='a'){
+                cnt++;
+                i++;
+                j++;
+            }else{
+                j++;
+            }
+        }
+        return cnt;
+    }
+} 
