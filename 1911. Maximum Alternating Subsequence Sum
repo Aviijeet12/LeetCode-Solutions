@@ -1,0 +1,26 @@
+class Solution {
+    Long[][] dp;
+    public long solve(int[] nums, boolean flag, int idx){
+        if(idx>=nums.length){
+            return 0;
+        }
+        int f = flag?1:0;
+        if(dp[idx][f]!=null){
+            return dp[idx][f];
+        }
+        long take = 0;
+        if(flag){
+            take = nums[idx] + solve(nums,false,idx+1);
+        }else{
+            take = -nums[idx] + solve(nums,true,idx+1);
+        }
+
+        long nottake = solve(nums,flag,idx+1);
+
+        return dp[idx][f] = Math.max(take,nottake);
+    }
+    public long maxAlternatingSum(int[] nums) {
+        dp = new Long[100001][2];
+        return solve(nums,true,0);
+    }
+}
