@@ -1,0 +1,22 @@
+class Solution {
+    Integer[][] dp;
+    public int solve(int[][] p, int i, int prev){
+        if(i>=p.length){
+            return 0;
+        }
+        if(dp[i][prev+1]!=null){
+            return dp[i][prev+1];
+        }
+        int take = 0;
+        if(prev==-1||p[i][0]>p[prev][1]){
+            take = 1+solve(p,i+1,i);
+        }
+        int nottake = solve(p,i+1,prev);
+        return dp[i][prev+1] = Math.max(take,nottake);
+    }
+    public int findLongestChain(int[][] p) {
+        dp = new Integer[1001][1001];
+        Arrays.sort(p,(a,b)->a[0]-b[0]);
+        return solve(p,0,-1);
+    }
+}
