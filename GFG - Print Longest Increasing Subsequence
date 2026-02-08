@@ -1,0 +1,33 @@
+class Solution {
+    public ArrayList<Integer> getLIS(int arr[]) {
+        ArrayList<Integer> res = new ArrayList<>();
+        int n = arr.length;
+        int[] dp = new int[n];
+        int[] prev = new int[n];
+        int maxl = 1;
+        int idx = 0;
+        Arrays.fill(dp,1);
+        Arrays.fill(prev,-1);
+        
+        for(int i=1;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(arr[i]>arr[j]){
+                    if(dp[i]<dp[j]+1){
+                        dp[i] = dp[j]+1;
+                        prev[i] = j;
+                    }
+                    if(dp[i]>maxl){
+                        maxl = dp[i];
+                        idx = i;
+                    }
+                }
+            }
+        }
+        while(idx!=-1){
+            res.add(arr[idx]);
+            idx = prev[idx];
+        }
+        Collections.reverse(res);
+        return res;
+    }
+}
