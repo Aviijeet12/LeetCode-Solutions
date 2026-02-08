@@ -1,0 +1,37 @@
+class Solution {
+    Integer[][] dp;
+    public boolean ispred(String s1, String s2){
+        if(s1.length()!=s2.length()+1){
+            return false;
+        }
+        int i=0;
+        int j=0;
+        while(i<s1.length()){
+            if(j<s2.length() && s1.charAt(i)==s2.charAt(j)){
+                i++;j++;
+            }else{
+                i++;
+            }
+        }
+        return j==s2.length();
+    }
+    public int solve(String[] words, int idx, int prev){
+        if(idx>=words.length){
+            return 0;
+        }
+        if(dp[idx][prev+1]!=null){
+            return dp[idx][prev+1];
+        }
+        int take = 0;
+        if(prev==-1||ispred(words[idx],words[prev])){
+            take = 1+solve(words,idx+1,idx);
+        }
+        int nottake = solve(words,idx+1,prev);
+        return dp[idx][prev+1] = Math.max(take,nottake);
+    }
+    public int longestStrChain(String[] words) {
+        dp = new Integer[1001][1001];
+        Arrays.sort(words,(a,b)->a.length()-b.length());
+        return solve(words,0,-1);
+    }
+}
