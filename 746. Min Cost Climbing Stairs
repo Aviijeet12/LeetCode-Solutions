@@ -1,0 +1,20 @@
+class Solution {
+    Integer[] dp;
+    public int solve(int idx, int[] cost){
+        if(idx>=cost.length){
+            return 0;
+        }
+        if(dp[idx]!=null){
+            return dp[idx];
+        }
+        int take1 = cost[idx] + solve(idx+1,cost);
+        int take2 = cost[idx] + solve(idx+2,cost);
+        return dp[idx] = Math.min(take1,take2);
+    }
+    public int minCostClimbingStairs(int[] cost) {
+        dp = new Integer[cost.length];
+        int m1 = solve(0,cost);
+        int m2 = solve(1,cost);
+        return Math.min(m1,m2);
+    }
+}
