@@ -1,0 +1,28 @@
+class Solution {
+    int n;
+    Integer[][] dp;
+    public int solve(int[] nums, int fee, int idx, int flag){
+        if(idx>=n){
+            return 0;
+        }
+        if(dp[idx][flag]!=null){
+            return dp[idx][flag];
+        }
+        int profit = 0;
+        if(flag==1){
+            int buy = -nums[idx] -fee + solve(nums,fee,idx+1,0);
+            int skip = solve(nums,fee,idx+1,1);
+            profit = Math.max(buy,skip);
+        }else{
+            int sell = nums[idx] + solve(nums,fee,idx+1,1);
+            int skip = solve(nums,fee,idx+1,0);
+            profit = Math.max(sell,skip);
+        }
+        return dp[idx][flag] = profit;
+    }
+    public int maxProfit(int[] nums, int fee) {
+        n = nums.length;
+        dp = new Integer[n][2];
+        return solve(nums,fee,0,1);
+    }
+}
