@@ -1,0 +1,17 @@
+class Solution {
+    public int maxProfit(int[] nums) {
+        int n = nums.length;
+        int res = 0;
+        int mp = Integer.MAX_VALUE;
+        for(int i=0;i<n;i++){
+            if(mp>nums[i]){
+                mp = nums[i];
+            }else{
+                int p = nums[i] - mp;
+                res+=p;
+                mp = nums[i];
+            }
+        }
+        return res;
+    }
+}
