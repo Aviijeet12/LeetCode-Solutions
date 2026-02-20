@@ -1,0 +1,36 @@
+class Solution {
+    int n;
+    int m;
+    Integer[][] dp;
+    public int solve(int[][] grid, int i, int j){
+        if(i<0||j<0||i>=n||j>=m){
+            return Integer.MAX_VALUE;
+        }
+        if(i==n-1){
+            return grid[i][j];
+        }
+        if(dp[i][j]!=null){
+            return dp[i][j];
+        }
+        int minsum = Integer.MAX_VALUE;
+        int sum = grid[i][j];
+        for(int idx = -1;idx<=1;idx++){
+            int nc = j+idx;
+            int next = solve(grid,i+1,nc);
+            if(next!=Integer.MAX_VALUE){
+                minsum = Math.min(minsum,sum+next);
+            }
+        }
+        return dp[i][j] = minsum;
+    }
+    public int minFallingPathSum(int[][] grid) {
+        n = grid.length;
+        m = grid[0].length;
+        int ans = Integer.MAX_VALUE;
+        dp = new Integer[101][101];
+        for(int j=0;j<m;j++){
+            ans = Math.min(ans,solve(grid,0,j));
+        }
+        return ans;
+    }
+}
