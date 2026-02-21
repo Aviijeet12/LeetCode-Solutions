@@ -1,0 +1,44 @@
+class Solution {
+    public String decodeString(String s) {
+        Stack<String> st = new Stack<>();
+        Stack<String> ss = new Stack<>();
+        int n = s.length();
+
+        for(int i=0;i<n;i++){
+            char c = s.charAt(i);
+            if(Character.isDigit(c)){
+               StringBuilder num = new StringBuilder();
+                while(i < n && Character.isDigit(s.charAt(i))){
+                    num.append(s.charAt(i));
+                    i++;
+                }
+                i--; 
+                st.push(num.toString());
+            }else if(c=='['){
+                ss.push("[");
+            }else if(c>=97&&c<=122){
+                ss.push(c+"");
+            }else{
+                int d = Integer.parseInt(st.pop());
+                StringBuilder sb1 = new StringBuilder();
+                StringBuilder sb2 = new StringBuilder();
+                while(!ss.isEmpty()&&!ss.peek().equals("[")){
+                    //sb1.append(st.pop());
+                    sb1.insert(0, ss.pop());
+                }
+                //sb1.reverse();
+                for(int j=0;j<d;j++){   
+                    sb2.append(sb1);
+                }
+                ss.pop();
+                ss.push(sb2.toString());
+            }
+        }
+        StringBuilder result = new StringBuilder();
+        while(!ss.isEmpty()){
+            result.insert(0, ss.pop());
+        }
+
+        return result.toString();
+    }
+}
