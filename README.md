@@ -51,4 +51,24 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
