@@ -55,14 +55,17 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +74,13 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
