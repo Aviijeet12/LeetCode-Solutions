@@ -29,6 +29,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
