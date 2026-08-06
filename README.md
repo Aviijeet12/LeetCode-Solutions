@@ -61,6 +61,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -100,4 +102,8 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
