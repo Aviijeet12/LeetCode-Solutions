@@ -35,6 +35,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0709-to-lower-case](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
