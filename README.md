@@ -28,11 +28,13 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -42,6 +44,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -91,4 +94,8 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
