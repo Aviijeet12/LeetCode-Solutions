@@ -47,6 +47,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | ------- |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -65,6 +66,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
