@@ -63,6 +63,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0896-monotonic-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
