@@ -79,6 +79,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -128,6 +129,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
 | ------- |
