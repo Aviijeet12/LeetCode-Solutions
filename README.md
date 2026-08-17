@@ -76,6 +76,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -92,6 +93,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -102,6 +104,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +116,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
