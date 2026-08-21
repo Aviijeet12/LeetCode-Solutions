@@ -81,6 +81,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1672-richest-customer-wealth](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -172,5 +173,14 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Simulation
 |  |
 | ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
