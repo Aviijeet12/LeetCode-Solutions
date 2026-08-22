@@ -99,6 +99,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
