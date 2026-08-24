@@ -37,6 +37,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -92,6 +93,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -178,6 +180,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
