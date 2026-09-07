@@ -39,6 +39,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0115-distinct-subsequences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -114,6 +115,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
