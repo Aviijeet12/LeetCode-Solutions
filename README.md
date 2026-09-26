@@ -29,6 +29,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -43,6 +44,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1041-robot-bounded-in-circle](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -86,6 +88,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1563-stone-game-v](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
