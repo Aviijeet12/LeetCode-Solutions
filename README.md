@@ -41,6 +41,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | ------- |
 | [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -218,6 +219,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
