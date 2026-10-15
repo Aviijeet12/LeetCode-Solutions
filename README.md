@@ -43,6 +43,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [0068-text-justification](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0224-basic-calculator](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1041-robot-bounded-in-circle](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -114,6 +115,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0224-basic-calculator](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1041-robot-bounded-in-circle](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -142,6 +144,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -226,6 +229,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
