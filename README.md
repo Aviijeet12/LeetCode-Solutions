@@ -87,6 +87,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0896-monotonic-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -117,6 +118,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | ------- |
 | [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0224-basic-calculator](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1041-robot-bounded-in-circle](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
