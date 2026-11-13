@@ -89,6 +89,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [0068-text-justification](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0665-non-decreasing-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
