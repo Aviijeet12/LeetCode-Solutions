@@ -51,6 +51,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -220,6 +221,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [0043-multiply-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [1041-robot-bounded-in-circle](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
