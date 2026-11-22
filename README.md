@@ -51,6 +51,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
