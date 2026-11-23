@@ -98,6 +98,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -130,6 +131,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1041-robot-bounded-in-circle](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -203,6 +205,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -267,4 +270,12 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
