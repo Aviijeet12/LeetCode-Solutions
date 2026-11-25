@@ -69,6 +69,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0389-find-the-difference](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -91,6 +92,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0164-maximum-gap](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0665-non-decreasing-array](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
@@ -278,4 +280,16 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
