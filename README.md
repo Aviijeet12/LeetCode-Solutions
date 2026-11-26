@@ -141,6 +141,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [1927-sum-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -233,6 +234,7 @@ This repository contains my solutions to **LeetCode problems**, primarily implem
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Aviijeet12/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
